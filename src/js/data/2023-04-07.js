@@ -616,7 +616,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kobayashi Aika",
-    img: oshii + "10Pile-n1zLR2.jpg",
+    img: oshii + "16Kobayashi-Aika-gbyb8k.png",
     opts: {
       dimensi: ["oshii"],
       gen: ["aqours"]
@@ -624,7 +624,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Takatsuki Kanako",
-    img: oshii + "15Kusuda-Aina-88IUqs.jpg",
+    img: oshii + "5Takatsuki-Kanako-lTh84P.png",
     opts: {
       dimensi: ["oshii"],
       gen: ["aqours"]
