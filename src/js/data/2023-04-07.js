@@ -763,8 +763,72 @@ dataSet[dataSetVersion].characterData = [
   // End Niji
   // Begin Liella
   {
-    name: "",
-    img: oshii + "",
+    name: "Date Sayuri",
+    img: oshii + "43Date-Sayuri-THCltI.jpeg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Liyuu",
+    img: oshii + "45Liyuu-FWD5E6.jpeg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Misaki Nako",
+    img: oshii + "47Misaki-Nako-BltLsQ.jpeg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Naomi Payton",
+    img: oshii + "46Naomi-Payton-EgTuEA.jpeg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Aoyama Nagisa",
+    img: oshii + "44Aoyama-Nagisa-zz8vye.jpeg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Suzuhara Nozomi",
+    img: oshii + "96Suzuhara-Nozomi-EBwkRF.jpeg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Yabushima Akane",
+    img: oshii + "97Yabushima-Akane-ow7F0q.jpeg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Ookuma Wakana",
+    img: oshii + "98Ookuma-Wakana-WnTyPJ.jpeg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Emori Aya",
+    img: oshii + "99Emori-Aya-J4Jvn8.jpeg",
     opts: {
       dimensi: ["oshii"],
       gen: ["liella"]
