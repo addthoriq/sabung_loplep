@@ -30,6 +30,7 @@ var waifu = "idol/";
 var oshii = "voiceactress/";
 
 dataSet[dataSetVersion].characterData = [
+  // Begin Muse
   {
     name: "Kosaka Honoka",
     img: waifu + "4Kousaka-Honoka-2nSYRU.png",
@@ -102,6 +103,8 @@ dataSet[dataSetVersion].characterData = [
       gen: [ "muse" ]
     }
   },
+  // End Muse
+  // Begin Aqours
   {
     name: "Takami Chika",
     img: waifu + "14Takami-Chika-MumE0U.png",
@@ -174,6 +177,271 @@ dataSet[dataSetVersion].characterData = [
       gen: [ "aqours" ]
     }
   },
+  // End Aqours
+  // Begin Nijigasaki
+  {
+    name: "Uehara Ayumu",
+    img: waifu + "102Uehara-Ayumu-KN13pl.png",
+    opts: {
+      dimensi: [ "waifu" ],
+      gen: [ "niji" ]
+    }
+  },
+  {
+    name: "Nakasu Kasumi",
+    img: waifu + "67Nakasu-Kasumi-1w2SQe.png",
+    opts: {
+      dimensi: [ "waifu" ],
+      gen: [ "niji" ]
+    }
+  },
+  {
+    name: "Osaka Shizuku",
+    img: waifu + "70Osaka-Shizuku-1WGIlr.png",
+    opts: {
+      dimensi: [ "waifu" ],
+      gen: [ "niji" ]
+    }
+  },
+  {
+    name: "Uehara Ayumu",
+    img: waifu + "102Uehara-Ayumu-KN13pl.png",
+    opts: {
+      dimensi: [ "waifu" ],
+      gen: [ "niji" ]
+    }
+  },
+  {
+    name: "Asaka Karin",
+    img: waifu + "24Asaka-Karin-3nF3em.png",
+    opts: {
+      dimensi: [ "waifu" ],
+      gen: [ "niji" ]
+    }
+  },
+  {
+    name: "Miyashita Ai",
+    img: waifu + "62Miyashita-Ai-f38Jhw.png",
+    opts: {
+      dimensi: [ "waifu" ],
+      gen: [ "niji" ]
+    }
+  },
+  {
+    name: "Konoe Kanata",
+    img: waifu + "50Konoe-Kanata-82Ei8T.png",
+    opts: {
+      dimensi: [ "waifu" ],
+      gen: [ "niji" ]
+    }
+  },
+  {
+    name: "Yuki Setsuna",
+    img: waifu + "110Yuki-Setsuna-2gVQWE.png",
+    opts: {
+      dimensi: [ "waifu" ],
+      gen: [ "niji" ]
+    }
+  },
+  {
+    name: "Emma Verde",
+    img: waifu + "28Emma-Verde-pVzmKV.png",
+    opts: {
+      dimensi: [ "waifu" ],
+      gen: [ "niji" ]
+    }
+  },
+  {
+    name: "Tennoji Rina",
+    img: waifu + "97Tennoji-Rina-YB8JUo.png",
+    opts: {
+      dimensi: [ "waifu" ],
+      gen: [ "niji" ]
+    }
+  },
+  {
+    name: "Mifune Shioriko",
+    img: waifu + "113Mifune-Shioriko-tNDNRT.png",
+    opts: {
+      dimensi: [ "waifu" ],
+      gen: [ "niji" ]
+    }
+  },
+  {
+    name: "Mia Taylor",
+    img: waifu + "123Mia-Taylor-jCx23M.png",
+    opts: {
+      dimensi: [ "waifu" ],
+      gen: [ "niji" ]
+    }
+  },
+  {
+    name: "Lanzhu Zhong",
+    img: waifu + "124Lanzhu-aPGOOW.png",
+    opts: {
+      dimensi: [ "waifu" ],
+      gen: [ "niji" ]
+    }
+  },
+  // End Nijigasaki
+  // Begin Liella
+  {
+    name: "Shibuya Kanon",
+    img: waifu + "118Shibuya-Kanon-if8zlW.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Tang Keke",
+    img: waifu + "119Tang-Keke-4Tr0Yx.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Arashi Chisato",
+    img: waifu + "120Arashi-Chisato-eySO7L.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Heanna Sumire",
+    img: waifu + "121Heanna-Sumire-Ben4YX.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Hazuki Ren",
+    img: waifu + "122Hazuki-Ren-fZ9vXK.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Sakurakoji Kinako",
+    img: waifu + "172Sakurakoji-Kinako-AMHcCz.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Yoneme Mei",
+    img: waifu + "173Yoneme-Mei-DyEzzc.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Wakana Shiki",
+    img: waifu + "174Wakana-Shiki-bnw0Nf.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Onitsuka Natsumi",
+    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  // End Liella
+  // Begin SIM
+  {
+    name: "Tsubaki Rurika",
+    img: waifu + "190Tsubaki-Rurika-wvwUXw.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Onitsuka Natsumi",
+    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Onitsuka Natsumi",
+    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Onitsuka Natsumi",
+    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Onitsuka Natsumi",
+    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Onitsuka Natsumi",
+    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Onitsuka Natsumi",
+    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Onitsuka Natsumi",
+    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Onitsuka Natsumi",
+    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  {
+    name: "Onitsuka Natsumi",
+    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["liella"]
+    }
+  },
+  //End SIM
+  // Seiyuu //
+  // Begin Muse
   {
     name: "Nitta Emi",
     img: oshii + "4Nitta-Emi-Vjrbrn.jpg",
@@ -190,4 +458,5 @@ dataSet[dataSetVersion].characterData = [
       gen: [ "muse" ]
     }
   },
+  // End Muse
 ];
