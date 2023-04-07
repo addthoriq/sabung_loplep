@@ -648,6 +648,127 @@ dataSet[dataSetVersion].characterData = [
   },
   // End Aqours
   // Begin Niji
-  
+  {
+    name: "Yano Hinaki",
+    img: oshii + "39Yano-Hinaki-tRDHyk.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["niji"]
+    }
+  },
+  {
+    name: "Oonishi Aguri",
+    img: oshii + "21Oonishi-Aguri-7eHrbm.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["niji"]
+    }
+  },
+  {
+    name: "Sagara Mayu",
+    img: oshii + "24Sagara-Mayu-GIdqlm.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["niji"]
+    }
+  },
+  {
+    name: "Maeda Kaori",
+    img: oshii + "26Maeda-Kaori-inNoL9.jpeg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["niji"]
+    }
+  },
+  {
+    name: "Kubota Miyu",
+    img: oshii + "29Kubota-Miyu-ITCbxu.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["niji"]
+    }
+  },
+  {
+    name: "Murakami Natsumi",
+    img: oshii + "22Murakami-Natsumi-hdQ2Ln.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["niji"]
+    }
+  },
+  {
+    name: "Kitou Akari",
+    img: oshii + "28Kitou-Akari-irF1Rn.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["niji"]
+    }
+  },
+  {
+    name: "Kusunoki Tomori",
+    img: oshii + "23Kusunoki-Tomori-Pl4WFh.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["niji"]
+    }
+  },
+  {
+    name: "Hayashi Coco",
+    img: oshii + "126Hayashi-Coco-9G3kHD.jpeg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["niji"]
+    }
+  },
+  {
+    name: "Sashide Maria",
+    img: oshii + "27Sashide-Maria-uq69lV.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["niji"]
+    }
+  },
+  {
+    name: "Tanaka Chiemi",
+    img: oshii + "25Tanaka-Chiemi-rRsKdo.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["niji"]
+    }
+  },
+  {
+    name: "Koizumi Moeka",
+    img: oshii + "35Koizumi-Moeka-jZ6CRC.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["niji"]
+    }
+  },
+  {
+    name: "Uchida Shu",
+    img: oshii + "40Uchida-Shu-vPhN1O.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["niji"]
+    }
+  },
+  {
+    name: "Homoto Akina",
+    img: oshii + "41Homoto-Akina-QvLzE2.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["niji"]
+    }
+  },
   // End Niji
+  // Begin Liella
+  {
+    name: "",
+    img: oshii + "",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["liella"]
+    }
+  },
+  // End Liella
 ];
