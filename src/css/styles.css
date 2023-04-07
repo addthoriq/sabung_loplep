@@ -116,6 +116,7 @@ body {
   margin: auto;
   grid-row: 1 / 7;
   cursor: pointer;
+  object-fit: cover;
 }
 
 .sorter > .text {
@@ -211,7 +212,7 @@ label:hover {
   height: 15px;
   margin-bottom: -1px;
   display: grid;
-  width: 211px;
+  width: 320px;
   grid-template-columns: repeat(2, 1fr);
   border: 1px solid #000;
   margin-right: 5px;
@@ -233,6 +234,7 @@ label:hover {
 .result.head {
   background-color: #000;
   color: #FFF;
+  width: 320px;
 }
 
 .result > .left {
@@ -254,7 +256,7 @@ label:hover {
 }
 
 .result > .right {
-  width: 160px;
+  width: 320px;
   padding: 1px 0em 1px 0em;
   grid-column: 2 / 3;
   border-left: 1px solid #000;
