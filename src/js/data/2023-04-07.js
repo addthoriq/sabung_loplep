@@ -64,7 +64,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hashizora Rin",
+    name: "Hoshizora Rin",
     img: waifu + "2Hoshizora-Rin-1hRTnq.png",
     opts: {
       dimensi: [ "waifu" ],
