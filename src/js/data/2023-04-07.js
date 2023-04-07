@@ -835,4 +835,136 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   // End Liella
+  // Begin SIM
+  {
+    name: "Horiuchi Marina",
+    img: oshii + "108Horiuchi-Marina-504CMd.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["sim"]
+    }
+  },
+  {
+    name: "Asai Nanami",
+    img: oshii + "110Asai-Nanami-OgdHCa.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["sim"]
+    }
+  },
+  {
+    name: "An Julia",
+    img: oshii + "111Ann-Julia-ji3HYC.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["sim"]
+    }
+  },
+  {
+    name: "Koyama Rina",
+    img: oshii + "112Koyama-Rina-xrBjkz.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["sim"]
+    }
+  },
+  {
+    name: "Sato Minami",
+    img: oshii + "113Sato-Minami-i971jQ.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["sim"]
+    }
+  },
+  {
+    name: "Sekine Yuna",
+    img: oshii + "109Sekine-Yuna-3m8ONs.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["sim"]
+    }
+  },
+  {
+    name: "Mizuki Nishiba",
+    img: oshii + "114Mizuki-Nishiba-iPuQXF.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["sim"]
+    }
+  },
+  {
+    name: "Hoshimori Sana",
+    img: oshii + "115Hoshimori-Sana-hAnvoF.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["sim"]
+    }
+  },
+  {
+    name: "Mita Ibuki",
+    img: oshii + "116Mita-Ibuki-dUlE4h.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["sim"]
+    }
+  },
+  {
+    name: "Aoyama Ruri",
+    img: oshii + "117Aoyama-Ruri-WdRXl9.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["sim"]
+    }
+  },
+  // End SIM
+  // Begin Hasunosora
+  {
+    name: "Nirei Nozomi",
+    img: oshii + "122Nirei-Nozomi-Ecy7GX.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["hasu"]
+    }
+  },
+  {
+    name: "Nonaka Kokona",
+    img: oshii + "120Nonaka-Kokona-kWePkb.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["hasu"]
+    }
+  },
+  {
+    name: "Hanamiya Nina",
+    img: oshii + "123Hanamiya-Nina-uElD1A.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["hasu"]
+    }
+  },
+  {
+    name: "Sasaki Kotoko",
+    img: oshii + "121Sasaki-Kotoko-JgSvYv.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["hasu"]
+    }
+  },
+  {
+    name: "Tsukine Kona",
+    img: oshii + "124Tsukine-Kona-v3luYu.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["hasu"]
+    }
+  },
+  {
+    name: "Kan Kanna",
+    img: oshii + "125Kan-Kanna-2eZwn3.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["hasu"]
+    }
+  },
+  // End Hasunosora
 ];
