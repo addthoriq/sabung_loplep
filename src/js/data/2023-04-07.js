@@ -3,7 +3,7 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Filter berdasarkan Dimensi",
+    name: "Sabung berdasarkan Dimensi",
     key: "dimensi",
     checked: false,
     sub: [
@@ -12,7 +12,7 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Filter berdasarkan Gen",
+    name: "Sabung berdasarkan Gen",
     key: "gen",
     checked: false,
     sub: [
