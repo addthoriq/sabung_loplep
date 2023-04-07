@@ -212,14 +212,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Uehara Ayumu",
-    img: waifu + "102Uehara-Ayumu-KN13pl.png",
-    opts: {
-      dimensi: [ "waifu" ],
-      gen: [ "niji" ]
-    }
-  },
-  {
     name: "Asaka Karin",
     img: waifu + "24Asaka-Karin-3nF3em.png",
     opts: {
