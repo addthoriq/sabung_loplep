@@ -180,6 +180,14 @@ dataSet[dataSetVersion].characterData = [
   // End Aqours
   // Begin Nijigasaki
   {
+    name: "Takasaki Yu",
+    img: waifu + "116Takasaki-Yu-sFJm8z.png",
+    opts: {
+      dimensi: [ "waifu" ],
+      gen: [ "niji" ]
+    }
+  },
+  {
     name: "Uehara Ayumu",
     img: waifu + "102Uehara-Ayumu-KN13pl.png",
     opts: {
@@ -364,87 +372,145 @@ dataSet[dataSetVersion].characterData = [
     img: waifu + "190Tsubaki-Rurika-wvwUXw.png",
     opts: {
       dimensi: ["waifu"],
-      gen: ["liella"]
+      gen: ["sim"]
     }
   },
   {
-    name: "Onitsuka Natsumi",
-    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    name: "Sumeragi Yuzuha",
+    img: waifu + "191Sumeragi-Yuzuha-XmmDy4.png",
     opts: {
       dimensi: ["waifu"],
-      gen: ["liella"]
+      gen: ["sim"]
     }
   },
   {
-    name: "Onitsuka Natsumi",
-    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    name: "Hojo Yukino",
+    img: waifu + "193Hojo-Yukino-akBBVv.png",
     opts: {
       dimensi: ["waifu"],
-      gen: ["liella"]
+      gen: ["sim"]
     }
   },
   {
-    name: "Onitsuka Natsumi",
-    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    name: "Amakusa Hikaru",
+    img: waifu + "192Amakusa-Hikaru-PVsTib.png",
     opts: {
       dimensi: ["waifu"],
-      gen: ["liella"]
+      gen: ["sim"]
     }
   },
   {
-    name: "Onitsuka Natsumi",
-    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    name: "Mikasa Maya",
+    img: waifu + "194Mikasa-Maya-qqB0Go.png",
     opts: {
       dimensi: ["waifu"],
-      gen: ["liella"]
+      gen: ["sim"]
     }
   },
   {
-    name: "Onitsuka Natsumi",
-    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    name: "Takizawa Anzu",
+    img: waifu + "195Takizawa-Anzu-H00EFp.png",
     opts: {
       dimensi: ["waifu"],
-      gen: ["liella"]
+      gen: ["sim"]
     }
   },
   {
-    name: "Onitsuka Natsumi",
-    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    name: "Wakatsuki Misuzu",
+    img: waifu + "196Wakatsuki-Misuzu-ozBLpg.png",
     opts: {
       dimensi: ["waifu"],
-      gen: ["liella"]
+      gen: ["sim"]
     }
   },
   {
-    name: "Onitsuka Natsumi",
-    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    name: "Kurusu Toa",
+    img: waifu + "197Kurusu-Toa-3WilLJ.png",
     opts: {
       dimensi: ["waifu"],
-      gen: ["liella"]
+      gen: ["sim"]
     }
   },
   {
-    name: "Onitsuka Natsumi",
-    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    name: "Suzuka Rena",
+    img: waifu + "199Suzuka-Rena-VldBcv.png",
     opts: {
       dimensi: ["waifu"],
-      gen: ["liella"]
+      gen: ["sim"]
     }
   },
   {
-    name: "Onitsuka Natsumi",
-    img: waifu + "175Onitsuka-Natsumi-o4o7O2.png",
+    name: "Harukaze Sayaka",
+    img: waifu + "198Harukaze-Sayaka-xqLm3E.png",
     opts: {
       dimensi: ["waifu"],
-      gen: ["liella"]
+      gen: ["sim"]
     }
   },
   //End SIM
+  // Begin Hasunosora
+  {
+    name: "Hinoshita Kaho",
+    img: waifu + "203Hinoshita-Kaho-b66xLB.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["hasu"]
+    }
+  },
+  {
+    name: "Murano Sayaka",
+    img: waifu + "204Murano-Sayaka-ZMrSmy.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["hasu"]
+    }
+  },
+  {
+    name: "Otomune Kozue",
+    img: waifu + "205Otomune-Kozue-5FN8n5.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["hasu"]
+    }
+  },
+  {
+    name: "Yugiri Tsuzuri",
+    img: waifu + "206Yugiri-Tsuzuri-vf3xkb.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["hasu"]
+    }
+  },
+  {
+    name: "Osawa Rurino",
+    img: waifu + "207Osawa-Rurino-8OiQVw.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["hasu"]
+    }
+  },
+  {
+    name: "Fujishima Megumi",
+    img: waifu + "208Fujishima-Megumi-OzqU01.png",
+    opts: {
+      dimensi: ["waifu"],
+      gen: ["hasu"]
+    }
+  },
+  // End Hasunosora
   // Seiyuu //
   // Begin Muse
   {
     name: "Nitta Emi",
     img: oshii + "4Nitta-Emi-Vjrbrn.jpg",
+    opts: {
+      dimensi: [ "oshii" ],
+      gen: [ "muse" ]
+    }
+  },
+  {
+    name: "Nanjou Yoshino",
+    img: oshii + "1Nanjou-Yoshino-1qdsZW.jpg",
     opts: {
       dimensi: [ "oshii" ],
       gen: [ "muse" ]
@@ -458,5 +524,130 @@ dataSet[dataSetVersion].characterData = [
       gen: [ "muse" ]
     }
   },
+  {
+    name: "Mimori Suzuko",
+    img: oshii + "13Mimori-Suzuko-x3kEDU.jpg",
+    opts: {
+      dimensi: [ "oshii" ],
+      gen: [ "muse" ]
+    }
+  },
+  {
+    name: "Iida Riho",
+    img: oshii + "2Iida-Riho-riv3IE.jpg",
+    opts: {
+      dimensi: [ "oshii" ],
+      gen: [ "muse" ]
+    }
+  },
+  {
+    name: "Hori Eriko (Pile)",
+    img: oshii + "10Pile-n1zLR2.jpg",
+    opts: {
+      dimensi: [ "oshii" ],
+      gen: [ "muse" ]
+    }
+  },
+  {
+    name: "Kusuda Aina",
+    img: oshii + "15Kusuda-Aina-88IUqs.jpg",
+    opts: {
+      dimensi: [ "oshii" ],
+      gen: [ "muse" ]
+    }
+  },
+  {
+    name: "Kubo Yurika",
+    img: oshii + "3Kubo-Yurika-jHYiNk.jpg",
+    opts: {
+      dimensi: [ "oshii" ],
+      gen: [ "muse" ]
+    }
+  },
+  {
+    name: "Tokui Sora",
+    img: oshii + "18Tokui-Sora-u0tO2w.jpg",
+    opts: {
+      dimensi: [ "oshii" ],
+      gen: [ "muse" ]
+    }
+  },
   // End Muse
+  // Begin Aqours
+  {
+    name: "Inami Anju",
+    img: oshii + "14Inami-Anju-3XoGqL.png",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["aqours"]
+    }
+  },
+  {
+    name: "Aida Rikako",
+    img: oshii + "12Aida-Rikako-oGTpeT.png",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["aqours"]
+    }
+  },
+  {
+    name: "Suwa Nanaka",
+    img: oshii + "8Suwa-Nanaka-41oTv0.png",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["aqours"]
+    }
+  },
+  {
+    name: "Komiya Arisa",
+    img: oshii + "13Mimori-Suzuko-x3kEDU.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["aqours"]
+    }
+  },
+  {
+    name: "Saitou Shuka",
+    img: oshii + "17Saitou-Shuka-T5r1p3.png",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["aqours"]
+    }
+  },
+  {
+    name: "Kobayashi Aika",
+    img: oshii + "10Pile-n1zLR2.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["aqours"]
+    }
+  },
+  {
+    name: "Takatsuki Kanako",
+    img: oshii + "15Kusuda-Aina-88IUqs.jpg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["aqours"]
+    }
+  },
+  {
+    name: "Suzuki Aina",
+    img: oshii + "11Suzuki-Aina-0OFPJP.png",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["aqours"]
+    }
+  },
+  {
+    name: "Furihata Ai",
+    img: oshii + "7Furihata-Ai-Z5aiXl.jpeg",
+    opts: {
+      dimensi: ["oshii"],
+      gen: ["aqours"]
+    }
+  },
+  // End Aqours
+  // Begin Niji
+  
+  // End Niji
 ];
