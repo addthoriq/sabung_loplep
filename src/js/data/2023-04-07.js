@@ -600,7 +600,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Komiya Arisa",
-    img: oshii + "13Mimori-Suzuko-x3kEDU.jpg",
+    img: oshii + "6Komiya-Arisa-lDoqLv.png",
     opts: {
       dimensi: ["oshii"],
       gen: ["aqours"]
